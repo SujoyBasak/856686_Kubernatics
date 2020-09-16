@@ -15,6 +15,7 @@ namespace Kubernatics.Controllers
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
+        //Code added
 
         private readonly ILogger<WeatherForecastController> _logger;
 
