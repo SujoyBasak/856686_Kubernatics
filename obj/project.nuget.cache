@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dSd2LjrKxxsIqcevXQL9aefia7SR6LUFA7zF6vYlkT40UiMX50b9I3QHt3H/hkpiESAjq4AF0Ia/3yvpb5W57Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sujoy Basak\\source\\repos\\Kubernatics\\Kubernatics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sujoy Basak\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
